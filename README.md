@@ -5,8 +5,6 @@ If I find Emily has used any of my images in any way, shape or form, I will file
 In order to view the images you will need to click on the date, i.e. March 24, 2020. 
 To obtain all the files in one zipped file, click on the Clone button, then Download zip.
 
-To read the posts in chronological order, begin at the bottom of each page and scroll up.
-
 This repository may be updated frequently.
 
 All times are PST/PDT.
