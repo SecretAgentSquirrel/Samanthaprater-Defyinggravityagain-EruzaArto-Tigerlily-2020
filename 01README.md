@@ -7,4 +7,4 @@ To obtain all the files in one zipped file, click on the Clone button, then Down
 
 This repository may be updated frequently.
 
-All times are PST/PDT.
+All dates and time stamps are PST/PDT.
